@@ -8,38 +8,46 @@ The API supports CRUD operations for employees and branches, along with logical 
 
 🎯 Objectives
 
-Design RESTful API routes
+1.Design RESTful API routes
 
-Implement CRUD operations
+2.Implement CRUD operations
 
-Apply middleware for logging and error handling
+3.Apply middleware for logging and error handling
 
-Create logical data-based endpoints
+4.Create logical data-based endpoints
 
-Write automated tests using Jest & Supertest
+5.Write automated tests using Jest & Supertest
 
 🛠️ Tech Stack
 
-Node.js
+1.Node.js
 
-Express.js
+2.Express.js
 
-TypeScript
+3.TypeScript
 
-Jest & Supertest
+4.Jest & Supertest
 
-Morgan
+5.Morgan
 
 📂 Project Structure
 
 src/
+
  ├── api/v1/controllers
+ 
  ├── api/v1/services
+ 
  ├── api/v1/routes
+ 
  ├── api/v1/middlewares
+ 
  ├── data
+ 
  ├── app.ts
+ 
  └── server.ts
+ 
 test/
 
 🔗 API Endpoints
