@@ -1,4 +1,4 @@
-🧑‍💼 Employee Directory and Branch Management API
+Employee Directory and Branch Management API
 
 A RESTful backend API built with Node.js, Express, and TypeScript to manage employees and branch locations. The project follows REST principles, clean architecture, middleware handling, and automated testing using Jest.
 
