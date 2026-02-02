@@ -100,8 +100,8 @@ Run tests:
 npm test
 
 ### ▶️ Running the Project
-npm install
-npm run dev
+Step 1: npm install
+Step 2:npm run dev
 
 
 ## Health check:
@@ -123,6 +123,6 @@ Employee Directory and Branch Management API
 
 ✅ Status
 
-✔ Fully implemented
-✔ Fully tested
-✔ Ready for submission
+Fully implemented
+Fully tested
+Ready for submission
